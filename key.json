@@ -15,9 +15,9 @@
   },
    {
     "id": "732c3fe28cd342de",
-    "username": "devcode",
-    "password": "afrin",
-    "expiresAt": "2025-11-24",
+    "username": "admin",
+    "password": "1234",
+    "expiresAt": "2025-11-28",
     "allowOffline": false
    }
 ]
